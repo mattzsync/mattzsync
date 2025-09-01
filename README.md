@@ -1,7 +1,5 @@
 ## Hello there!🖖🏻 My name is Matt 🐿️
-![Kermit typing](https://media.tenor.com/8JW2EYvY9C4AAAAC/kermit-type.gif)
 
-### I'm a security analyst
 <img src="https://tryhackme-badges.s3.amazonaws.com/mattzsync.png" alt="Your Image Badge" />
 
 <div>

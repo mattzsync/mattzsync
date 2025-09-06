@@ -10,6 +10,8 @@ Meu nome é Matheus, tenho 23 anos e atualmente atuo como analista de segurança
 
 ---
 <div align="center">
+![typing](https://github.com/user-attachments/assets/396e1b36-f5e6-4311-9872-5fcd03838a8b)
 <img src="https://tryhackme-badges.s3.amazonaws.com/mattzsync.png" alt="Your Image Badge" />
 </div>
+
 
